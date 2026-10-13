@@ -1,5 +1,7 @@
 # P7 Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets
 
+L’entreprise et les données sont fictives
+
 ## Contexte
 
 Sanitoral est une entreprise internationale de soins bucco-dentaires présente dans 4 régions du monde.
